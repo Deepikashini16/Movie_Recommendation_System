@@ -5,5 +5,4 @@ With the vast number of movies available on streaming platforms, users often str
 
 The recommendation system is being developed using the MovieLens dataset, which contains user-movie interaction data, including ratings, genres, and timestamps. The system aims to address scalability, personalization, diversity, transparency, and cold-start challenges while optimizing recommendation quality.
 
-
-![Alt text](Implementation Pipeline for Movie Recommendation System.png)
+![image](https://github.com/user-attachments/assets/8d64a4cb-5d46-4f1a-901d-39a49d53127e)
